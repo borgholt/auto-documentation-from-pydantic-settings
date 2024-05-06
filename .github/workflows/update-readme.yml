@@ -9,6 +9,7 @@ jobs:
         run: |
           git config --global user.email "lb@cortilabs.com"
           git config --global user.name "labodk"
+          git remote set-url origin https://${{ secrets.GITHUB_TOKEN }}@github.com/borgholt/auto-documentation-from-pydantic-settings.git
           echo "Hello, world!" > hello.txt
           git add hello.txt
           git commit -m "Add hello.txt"
