@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="title.svg" alt="css-in-readme">
+    <img src="title.svg" width="400" height="400"  alt="css-in-readme">
 </div>
 
 # auto-documentation-from-pydantic-settings
