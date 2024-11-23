@@ -10,9 +10,6 @@
             }
             #name {
               background: linear-gradient(Olive,67%, black);
-              -webkit-background-clip: text;
-                      background-clip: text;
-              -webkit-text-fill-color: transparent;
             }
             #title {
               height: 100%;
