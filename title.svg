@@ -16,7 +16,7 @@
               color: OrangeRed;
               color: YellowGreen;
               color: DarkCyan;
-              color: Gold;
+              color: DarkOliveGreen;
             }
             #title {
               height: 100%;
