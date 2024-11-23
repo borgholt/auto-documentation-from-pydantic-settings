@@ -9,7 +9,7 @@
               font-weight: 900;
             }
             #name {
-              background: linear-gradient(SpringGreen,67%, black);
+              background: linear-gradient(Olive,67%, black);
               -webkit-background-clip: text;
                       background-clip: text;
               -webkit-text-fill-color: transparent;
