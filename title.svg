@@ -9,11 +9,15 @@
               font-weight: 900;
             }
             #name {
-              background: linear-gradient(Olive,67%, black);
+              /* background: linear-gradient(Olive,67%, black); */
+              /* -webkit-background-clip: text; */
+              /*         background-clip: text; */
+              /* -webkit-text-fill-color: transparent; */
+              color: OrangeRed;
             }
             #title {
               height: 100%;
-              display:flex;
+              display: flex;
               align-items: center;
               justify-content: center;
             }
