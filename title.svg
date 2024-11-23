@@ -14,7 +14,7 @@
               /*         background-clip: text; */
               /* -webkit-text-fill-color: transparent; */
               color: OrangeRed;
-              color: Turquoise;
+              color: DarkCyan;
             }
             #title {
               height: 100%;
